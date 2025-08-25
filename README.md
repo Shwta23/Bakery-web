@@ -13,3 +13,5 @@ Key Features:
 
 📦 Order management for bakery owners
 
+
+![bakery.png](https://github.com/Shwta23/Bakery-web/blob/main/bakery.png)
